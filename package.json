@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/karlkarimoisa/FlashCard/issues"
   },
-  "homepage": "https://github.com/karlkarimoisa/FlashCard#readme"
+  "homepage": "https://github.com/karlkarimoisa/FlashCard#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
 }
